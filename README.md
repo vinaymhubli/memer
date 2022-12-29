@@ -1,4 +1,4 @@
-# memer
+# memer🤣😂
 This is a meme-generator app it makes users custom resizable text which understands things like how to stack two widgets, pick an image from a gallery/camera take a screenshot of a widget & save it as an image to the gallery
 # Technical Outline 📕
 ➊ Image Picker\
